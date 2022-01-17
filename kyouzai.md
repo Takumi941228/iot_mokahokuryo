@@ -30,3 +30,9 @@ USEBにて接続しているmicro:bitをIDを選択し、「接続」をクリ�
 <center>
     <img src="./images/image4.png" width="60%">
 </center>
+
+完了
+
+<center>
+    <img src="./images/image5.png" width="60%">
+</center>
