@@ -7,8 +7,9 @@
     <img src="./images/image11.png" width="40%">
 </center>
 
-「無線」カテゴリから「無線のグループを設定」ブロックをドラッグ＆ドロップして、
-「最初に」ブロックにつなげる。
+「無線」カテゴリの中からから「無線のグループを設定」ブロック
+「無線-その他」カテゴリの中から「無線の送信強度を設定」ブロックを
+ドラッグ＆ドロップして、「最初に」ブロックにつなげる。
 
 <center>
     <img src="./images/image12.png" width="40%">
@@ -18,11 +19,21 @@
     <img src="./images/image13.png" width="40%">
 </center>
 
+「無線」カテゴリの中から「無線で受信したとき」ブロックを
+ドロップ＆ドロップする。
 
 <center>
     <img src="./images/image14.png" width="40%">
 </center>
 
+「シリアル通信」カテゴリの中から「シリアル通信-名前と数値を書き出す」ブロックを
+ドラッグ＆ドロップして、「無線で受信したとき」ブロックにつなげる。
+「name」と「value」をコピーして、貼り付ける。
+
 <center>
     <img src="./images/image15.png" width="40%">
+</center>
+
+<center>
+    <img src="./images/image16.png" width="40%">
 </center>
