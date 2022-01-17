@@ -4,7 +4,7 @@
 
 完成図
 <center>
-    <img src="./images/image11.png" width="70%">
+    <img src="./images/image11.png" width="40%">
 </center>
 
 「無線」カテゴリから「無線のグループを設定」ブロックをドラッグ＆ドロップして、
@@ -15,5 +15,5 @@
 </center>
 
 <center>
-    <img src="./images/image12.png" width="40%">
+    <img src="./images/image13.png" width="40%">
 </center>
