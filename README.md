@@ -1,5 +1,13 @@
+# センサからの情報収集
 
-> このページを開く [https://takumi941228.github.io/iot_mokahokuryo/](https://takumi941228.github.io/iot_mokahokuryo/)
+栃木県立県央産業技術専門校 ITエンジニア科
+
+## 体験の構成図
+
+
+<center>
+    <img src="./images/image10.png" width="40%">
+</center>
 
 ## 拡張機能として使用
 
