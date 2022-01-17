@@ -17,3 +17,12 @@
 <center>
     <img src="./images/image13.png" width="40%">
 </center>
+
+
+<center>
+    <img src="./images/image14.png" width="40%">
+</center>
+
+<center>
+    <img src="./images/image15.png" width="40%">
+</center>
