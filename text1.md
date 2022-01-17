@@ -68,7 +68,7 @@ javascriptとは、テキストベースのプログラミング言語の一種�
 以下のコードをコピーし、javascriptのエディタにペーストする。
 
 <center>
-    <img src="./images/image1.png" width="60%">
+    <img src="./images/image19.png" width="60%">
 </center>
 
 ```javascript
