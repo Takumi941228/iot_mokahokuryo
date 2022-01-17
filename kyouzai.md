@@ -39,8 +39,16 @@ USEBにて接続しているmicro:bitをIDを選択し、「接続」をクリ�
 
 ## デバイスにプログラムを書き込む方法
 
-左下のダウンロードをクリックする。
+左下の「ダウンロード」をクリックする。
 
 <center>
-    <img src="./images/image6.png" width="60%">
+    <img src="./images/image6.png" width="40%">
+</center>
+
+## コンソールにて、波形の観測方法
+
+左下の「コンソールを表示　デバイス」をクリックする。
+
+<center>
+    <img src="./images/image7.png" width="40%">
 </center>
