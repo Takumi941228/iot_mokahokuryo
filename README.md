@@ -12,7 +12,7 @@ micro:bitを複数台用いて、実習を行います。
 Excelにてグラフにすることができる。
 
 <center>
-    <img src="./images/image10.png" width="80%">
+    <img src="./images/image10.png" width="100%">
 </center>
 
 ## ブロックのプレビュー
