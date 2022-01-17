@@ -6,7 +6,7 @@
 
 
 <center>
-    <img src="./images/image10.png" width="40%">
+    <img src="./images/image10.png" width="60%">
 </center>
 
 ## 拡張機能として使用
