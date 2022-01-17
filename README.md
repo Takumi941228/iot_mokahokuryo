@@ -11,11 +11,8 @@ micro:bitに搭載されている温度センサと照度センサをからの�
 なお、データをcsv形式にて、ダウンロード可能なため、Microsoft Excelにて、計測した時間帯のグラフを作成することができます。
 
 <left>
-    <img src="./images/image20.png" width="40%">
-</left> 
-<center>
-    <img src="./images/image21.png" width="40%">
-</center>
+    <img src="./images/image20.png" width="40%"> <img src="./images/image21.png" width="40%">
+</left>
 
 ### ・体験授業の構成図
 
