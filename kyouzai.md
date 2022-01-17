@@ -36,3 +36,11 @@ USEBにて接続しているmicro:bitをIDを選択し、「接続」をクリ�
 <center>
     <img src="./images/image5.png" width="40%">
 </center>
+
+## デバイスにプログラムを書き込む方法
+
+左下のダウンロードをクリックする。
+
+<center>
+    <img src="./images/image.png" width="60%">
+</center>
