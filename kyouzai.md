@@ -6,6 +6,27 @@ micro:bitに搭載されている温度センサと照度センサをからの�
 
 ## デバイスのペアリング方法
 
+右上の歯車マークから「Connect Device」をクリックする。
+
 <center>
     <img src="./images/image1.png" width="60%">
+</center>
+
+次へ
+
+<center>
+    <img src="./images/image2.png" width="60%">
+</center>
+
+次へ
+
+<center>
+    <img src="./images/image3.png" width="60%">
+</center>
+
+USEBにて接続しているmicro:bitをIDを選択し、「接続」をクリックする。
+複数接続している場合は、使用するmicro:bitを選択する。
+
+<center>
+    <img src="./images/image4.png" width="60%">
 </center>
