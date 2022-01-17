@@ -19,4 +19,4 @@ Excelにてグラフにすることができる。
 
 送信デバイスと受信デバイスの両方のブロックになっています。
 
-<img src="https://github.com/takumi941228/iot_mokahokuryo/raw/master/.github/makecode/blocks.png" width="60%">
+<img src="https://github.com/Takumi941228/iot_mokahokuryo/blob/master/.github/makecode/blocks.png" width="60%">
