@@ -37,3 +37,15 @@
 <center>
     <img src="./images/image16.png" width="60%">
 </center>
+
+「基本」カテゴリの中から「一時停止（ミリ秒）」ブロックを
+ドラッグ＆ドロップして、「無線で受信したとき」ブロックにつなげる。
+
+
+<center>
+    <img src="./images/image17.png" width="60%">
+</center>
+
+<center>
+    <img src="./images/image18.png" width="60%">
+</center>
