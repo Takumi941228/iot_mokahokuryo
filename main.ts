@@ -7,6 +7,8 @@ radio.onReceivedValue(function (name, value) {
 })
 /**
  * 無線のグループを1にする。
+ * 
+ * 無線通信の送信強度を7に設定
  */
 radio.setGroup(1)
 radio.setTransmitPower(7)
