@@ -24,7 +24,7 @@ micro:bitに搭載されている温度センサと照度センサをからの�
     <img src="./images/image3.png" width="40%">
 </center>
 
-* USEBにて接続しているmicro:bitをIDを選択し、「接続」をクリックする。
+* USEBケーブルにて接続しているmicro:bitをIDを選択し、「接続」をクリックする。
 複数接続している場合は、使用するmicro:bitを選択する。
 
 <center>
