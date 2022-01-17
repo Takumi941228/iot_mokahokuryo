@@ -20,8 +20,7 @@ MakeCode でこのリポジトリを編集します。
 
 ## ブロックのプレビュー
 
-この画像はマスター内の最後のコミットからのブロックコードを示しています。
-このイメージは更新に数分かかる場合があります。
+送信デバイスと受信デバイスの両方のブロックになっています。
 
 ![生成されたブロック](https://github.com/takumi941228/iot_mokahokuryo/raw/master/.github/makecode/blocks.png)
 
