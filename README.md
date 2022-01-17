@@ -12,6 +12,7 @@ micro:bitに搭載されている温度センサと照度センサをからの�
 
 <center>
     <img src="./images/image20.png" width="40%">
+    
     <img src="./images/image21.png" width="40%">
 </center>
 
