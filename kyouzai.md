@@ -42,5 +42,5 @@ USEBにて接続しているmicro:bitをIDを選択し、「接続」をクリ�
 左下のダウンロードをクリックする。
 
 <center>
-    <img src="./images/image.png" width="60%">
+    <img src="./images/image6.png" width="60%">
 </center>
