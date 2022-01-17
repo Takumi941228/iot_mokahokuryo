@@ -1,3 +1,7 @@
+# プログラム作成
+
+makecodeとjavascriptの二つのコードを参照する。
+
 ## makecodeにて、プログラムを作成する
 
 ブロックをくっつけてプログラムを作成します。
@@ -51,6 +55,8 @@
 </center>
 
 ## javascriptにて、プログラムを作成する
+
+以下のコードをコピーし、javascriptのエディタにペーストする。
 
 ```javascript
 
