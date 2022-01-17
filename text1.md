@@ -3,5 +3,5 @@
 ブロックをくっつけてプログラムを作成します。
 
 <center>
-    <img src="./images/image11.png" width="60%">
+    <img src="./images/image11.png" width="0%">
 </center>
