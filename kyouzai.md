@@ -52,3 +52,9 @@ USEBにて接続しているmicro:bitをIDを選択し、「接続」をクリ�
 <center>
     <img src="./images/image7.png" width="40%">
 </center>
+
+正しく、データが取得できれば以下のような波形が出力される。
+
+<center>
+    <img src="./images/image8.png" width="40%">
+</center>
