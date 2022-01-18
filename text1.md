@@ -17,10 +17,10 @@ Microsoft MakeCode, micro:bit 等の環境構築を行います．
 
 ## IDE
 
-Arduino IDEのセットアップ．下記のアドレスからソフトウェアをダウンロード，インストールを行います．
+Microsoft MakeCode for micro:bitのセットアップ．下記のアドレスからサイトへのアクセスを行います．
 
-- Arduino IDE
-  - https://www.arduino.cc/en/Main/Software
+- Microsoft MakeCode for micro:bit
+  - https://makecode.microbit.org/
 
 
 ## ESP32-DevKitCの環境構築
