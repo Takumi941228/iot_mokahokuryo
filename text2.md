@@ -45,11 +45,38 @@ micro:bitはイギリスのBBCが主体となって作った、手のひらサ�
     <img src="./images/image22.png" width="80%">
 </center>
 
-## オンチップ温度センサの取得
+## オンチップ温度センサ
+
+### 概要
 
 |項目|v2.0|v1.5|
 |:-:|:-:|:-:|
 |タイプ|on-core NRF52|on-core nRF51|
 |範囲測定|-40~105℃|-25~75℃|
 |分解能|0.25℃steps|0.25℃steps|
-|精度|+/-5℃
+|精度|+/-5℃|+/-4℃|
+
+### makecode block
+
+測定値として、温度値[℃]を得られます
+
+<center>
+    <img src="./images/image23.png" width="40%">
+</center>
+
+## 環境光センサ
+
+### 概要
+
+|項目|v2.0|v1.5|
+|:-:|:-:|:-:|
+|タイプ|LED|LED|
+|照度値|255段階|10段階|
+
+### makecode block
+
+光量として、0~254の255段階の値を得られます
+
+<center>
+    <img src="./images/image24.png" width="40%">
+</center>
