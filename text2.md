@@ -42,7 +42,7 @@ micro:bitはイギリスのBBCが主体となって作った、手のひらサ�
 外観は下図の通りとなる．
 
 <center>
-    <img src="./images/image22" width="80%">
+    <img src="./images/image22.png" width="80%">
 </center>
 
 ## オンチップ温度の取得
