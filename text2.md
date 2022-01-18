@@ -61,7 +61,7 @@ micro:bitはイギリスのBBCが主体となって作った、手のひらサ�
 測定値として、温度値[℃]を得られます
 
 <center>
-    <img src="./images/image23.png" width="40%">
+    <img src="./images/image23.png" width="20%">
 </center>
 
 ## 環境光センサ
@@ -78,5 +78,5 @@ micro:bitはイギリスのBBCが主体となって作った、手のひらサ�
 光量として、0~254の255段階の値を得られます
 
 <center>
-    <img src="./images/image24.png" width="40%">
+    <img src="./images/image24.png" width="20%">
 </center>
