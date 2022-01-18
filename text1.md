@@ -12,15 +12,8 @@ Microsoft MakeCode, micro:bit 等の環境構築を行います．
 
 - micro:bit
   - https://www.switch-science.com/catalog/6600/
-- Raspberry Pi 4 modelB
-    - https://www.raspberrypi.org/products/raspberry-pi-4-model-b/
-    - 共立エレショップ　スターターキット
-      - https://eleshop.jp/shop/g/gJC5317/
-- Node-Red
-  - https://nodered.org/
-  - 日本コミュニティ
-    - https://nodered.jp/
-
+  - Micoro:bit教育財団
+    - https://microbit.org/ja/ 
 
 ## IDE
 
