@@ -5,13 +5,13 @@
 # 基本セットアップ
 
 
-makecode, micro:bit 等の環境構築を行います．
+Microsoft MakeCode, micro:bit 等の環境構築を行います．
 
 
 ## 利用ハードおよびサービス
 
-- ESP32-DevKitC-32E
-  - https://akizukidenshi.com/catalog/g/gM-15673/
+- micro:bit
+  - https://www.switch-science.com/catalog/6600/
 - Raspberry Pi 4 modelB
     - https://www.raspberrypi.org/products/raspberry-pi-4-model-b/
     - 共立エレショップ　スターターキット
