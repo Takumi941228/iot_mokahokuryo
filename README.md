@@ -10,9 +10,10 @@ micro:bitに搭載されている温度センサと照度センサをからの�
 送信し、受け取ったデータをシリアル通信にて、コンソール画面で出力させます。
 なお、データをcsv形式にて、ダウンロード可能なため、Microsoft Excelにて、計測した時間帯のグラフを作成することができます。
 
-<left>
-    <img src="./images/image20.png" width="40%"> <img src="./images/image21.png" width="40%">
-</left>
+| 温度センサ | 照度センサ |
+|---|---|
+|![](./images/image20.png) | ![](./images/image21.png)|
+
 
 ### ・体験授業の構成図
 
