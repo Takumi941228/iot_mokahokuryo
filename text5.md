@@ -42,5 +42,5 @@ Microsoft Excelの機能を活用すれば、より高度な操作によるグ�
 C列・D列でも同様に作業を行うと、下図のようにグラフが生成される。
 
 <center>
-    <img src="./images/image2.png" width="60%">
+    <img src="./images/image28.png" width="60%">
 </center>
