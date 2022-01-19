@@ -19,7 +19,7 @@ Microsoft Excelの機能を活用すれば、より高度な操作によるグ�
     <img src="./images/image9.png" width="60%">
 </center>
 
-### Excelにて開く
+### Excelにてファイルを開き、グラフにする
 
 * 左下のファイルをクリックする
 
