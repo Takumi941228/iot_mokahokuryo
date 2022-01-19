@@ -4,5 +4,9 @@ csv形式でダウンロードしたファイルをExcelで開くと、簡単に
 
 ## Excelによるグラフ化
 
+* 右上の停止ボタンをクリックする
 
+<center>
+    <img src="./images/image23.png" width="60%">
+</center>
 
