@@ -26,7 +26,13 @@ csv形式でダウンロードしたファイルをExcelで開くと、簡単に
     <img src="./images/image25.png" width="60%">
 </center>
 
-* A列・B列をクリックして範囲選択し、タブ欄から「挿入」-「おすすめのグラフ」をクリックする
+* A列・B列をクリックして範囲選択し、タブ欄から「挿入」-「おすすめグラフ」をクリックする
+
+<center>
+    <img src="./images/image26.png" width="60%">
+</center>
+
+* 
 
 <center>
     <img src="./images/image26.png" width="60%">
