@@ -32,8 +32,14 @@ csv形式でダウンロードしたファイルをExcelで開くと、簡単に
     <img src="./images/image26.png" width="60%">
 </center>
 
-* 
+* タブ欄から「すべてのグラフ」-「散布図」-「散布図（平滑線とマーカー）」-「OK」をクリックする
 
 <center>
     <img src="./images/image27.png" width="60%">
+</center>
+
+C列・D列でも同様に作業を行うと、下図のようにグラフが生成される。
+
+<center>
+    <img src="./images/image2.png" width="60%">
 </center>
