@@ -35,5 +35,5 @@ csv形式でダウンロードしたファイルをExcelで開くと、簡単に
 * 
 
 <center>
-    <img src="./images/image26.png" width="60%">
+    <img src="./images/image2.png" width="60%">
 </center>
