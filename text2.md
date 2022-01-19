@@ -64,7 +64,7 @@ micro:bitはイギリスのBBCが主体となって作った、手のひらサ�
     <img src="./images/image23.png" width="20%">
 </center>
 
-## 環境光センサ
+## 照度センサ
 
 ### 概要
 
